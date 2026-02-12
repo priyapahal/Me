@@ -1,11 +1,21 @@
-# Me
-- 👋 Hi, I’m @Priyanka
-- 👀 I’m interested in NGS analysis, multiOmics analysis, and Machine learning
-- 🌱 I’m currently learning Metagenome analysis
-- 💞️ I’m looking to collaborate on NGS analysis projects
-- 📫 How to reach me https://www.linkedin.com/in/priyanka-pahal-9b98811a1
+## Hi, I'm Priyanka 👋
 
-<!---
-priyapahal/priyapahal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Data Analyst with a background in Bioinformatics and healthcare analytics. I work with Python and SQL to clean, analyze, and visualize data to generate actionable insights.
+
+## Skills
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- Data Cleaning & Exploratory Data Analysis
+- Healthcare Data Analytics
+
+## Projects
+- Healthcare Risk Analysis – End-to-end analytics project using Python & SQL
+
+## Currently Learning
+- Advanced Data Analytics
+- Business Intelligence & Dashboarding
+
+## Contact
+LinkedIn: (https://www.linkedin.com/in/priyanka-pahal-9b98811a1)
+
+
